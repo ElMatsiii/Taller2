@@ -5,7 +5,7 @@
 * Daniela Alejandra Infante Soto, 21.446.602-3, daniela.infante@alumnos.ucn.cl, Paralelo C2
 * Máximo Andrés Sazo Troncoso, 21.654.236-3, maximo.sazo@alumnos.ucn.cl, Paralelo C2
 
-# Juego de Gato (Tic-Tac-Toe) con IA
+# Juego de Gato con IA
 ## Instrucciones para ejecutar el programa
 ### Requisitos previos:
 
